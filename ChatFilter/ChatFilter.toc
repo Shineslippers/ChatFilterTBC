@@ -1,8 +1,0 @@
-## Interface: 40100
-## Title: ChatFilter
-## Author: Naw, Totori
-## Version: 1.1
-## Notes: Filter gold spammers, duplicate messages, and raid icons from chat
-## SavedVariables: ChatFilter_filterGold ChatFilter_filterCustom ChatFilter_filterIcons ChatFilter_filterDuplicates ChatFilter_verbose ChatFilter_alternativekeywords
-
-ChatFilter.lua
